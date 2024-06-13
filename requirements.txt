@@ -1,0 +1,13 @@
+mlflow==2.2.0
+pandas
+numpy
+scikit-learn
+Flask
+FastAPI
+evidently
+ipykernel
+seaborn
+matplotlib
+plotnine
+
+-e .
